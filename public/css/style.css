@@ -1,0 +1,56 @@
+/* body {
+    background-color: black;
+} */
+
+.m-body {
+    color: white;
+    background: black;
+}
+
+.navbar {
+    color: white;
+    height: 5rem;
+    background-color: black;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.heading {
+    
+    font-size: 50px;
+    margin-top: 5rem;
+}
+
+.heading-3 {
+    color: rgb(154, 148, 148);
+    margin-top: 2rem;
+}
+.l-btn {
+    background-color: #3EB489;
+    border-radius: 10px;
+    margin-top: 3rem;
+}
+
+.card-three {
+    color: white !important;
+    background: black !important;
+    border: none !important;
+    
+
+}
+
+.f-info-links {
+    text-decoration: none !important;
+    color: white;
+}
+
+.f-info {
+    height: 8rem;
+    background-color: #9c9b9b ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-evenly;
+}
